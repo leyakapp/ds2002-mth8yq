@@ -6,7 +6,6 @@ A test repo for class.
 beep boop fah fo fum
 
 mth8yq@virginia.edu
-nooooooooooooooooooooooooooooooooooooooooooooooo
-ooooooooooooooo
+
 
 https://www.google.com/
